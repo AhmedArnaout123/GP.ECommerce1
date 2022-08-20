@@ -1,0 +1,17 @@
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\bin\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.deps.json
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\bin\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\bin\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\bin\Debug\net6.0\GP.ECommerce1.Core.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\bin\Debug\net6.0\GP.Utilix.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\bin\Debug\net6.0\GP.Utilix.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\bin\Debug\net6.0\GP.ECommerce1.Core.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.csproj.AssemblyReference.cache
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.GeneratedMSBuildEditorConfig.editorconfig
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.AssemblyInfoInputs.cache
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.AssemblyInfo.cs
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.csproj.CoreCompileInputs.cache
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.csproj.CopyComplete
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\refint\GP.ECommerce1.Infrastructure.Sql.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.Sql.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.Sql\obj\Debug\net6.0\ref\GP.ECommerce1.Infrastructure.Sql.dll

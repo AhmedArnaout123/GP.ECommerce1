@@ -1,0 +1,17 @@
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\bin\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.deps.json
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\bin\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\bin\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\bin\Debug\net6.0\GP.ECommerce1.Core.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\bin\Debug\net6.0\GP.Utilix.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\bin\Debug\net6.0\GP.ECommerce1.Core.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\bin\Debug\net6.0\GP.Utilix.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.csproj.AssemblyReference.cache
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.AssemblyInfoInputs.cache
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.AssemblyInfo.cs
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.csproj.CoreCompileInputs.cache
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.csproj.CopyComplete
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\refint\GP.ECommerce1.Infrastructure.DataSeeder.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\GP.ECommerce1.Infrastructure.DataSeeder.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Infrastructure.DataSeeder\obj\Debug\net6.0\ref\GP.ECommerce1.Infrastructure.DataSeeder.dll

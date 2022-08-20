@@ -1,0 +1,15 @@
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\bin\Debug\net6.0\GP.ECommerce1.Core.deps.json
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\bin\Debug\net6.0\GP.ECommerce1.Core.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\bin\Debug\net6.0\GP.ECommerce1.Core.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\bin\Debug\net6.0\GP.Utilix.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\bin\Debug\net6.0\GP.Utilix.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\GP.ECommerce1.Core.csproj.AssemblyReference.cache
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\GP.ECommerce1.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\GP.ECommerce1.Core.AssemblyInfoInputs.cache
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\GP.ECommerce1.Core.AssemblyInfo.cs
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\GP.ECommerce1.Core.csproj.CoreCompileInputs.cache
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\GP.ECommerce1.Core.csproj.CopyComplete
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\GP.ECommerce1.Core.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\refint\GP.ECommerce1.Core.dll
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\GP.ECommerce1.Core.pdb
+F:\GraduationProject\GP.ECommerce1\GP.ECommerce1.Core\obj\Debug\net6.0\ref\GP.ECommerce1.Core.dll

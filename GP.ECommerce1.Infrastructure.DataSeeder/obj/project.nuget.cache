@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fUd2NWBGFjOqN3RkUyj6/gvDspr+gKjrsWvAn183LgvcJCMC+1eiuZGzRHfSPVVE0je5ILQ48kt2Vr+tefD7Cg==",
+  "success": true,
+  "projectFilePath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Infrastructure.DataSeeder\\GP.ECommerce1.Infrastructure.DataSeeder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

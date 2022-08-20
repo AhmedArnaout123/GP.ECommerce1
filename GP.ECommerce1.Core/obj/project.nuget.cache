@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yM+5wsqUlOEybepgBSfZ5BeIrSGOfpgK/lVPHnG6a0Y5ioQpylC4A0yj5CINi0AQKzg4Dm4nh51larWSFBlSdA==",
+  "success": true,
+  "projectFilePath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Core\\GP.ECommerce1.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
