@@ -7,7 +7,35 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="MediatR" Version="10.0.1" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
       <PackageReference Include="MongoDB.Driver" Version="2.17.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60">
+        <HintPath>C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.3\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Categories\CommandsHandlers" />
+      <Folder Include="Categories\QueriesHandlers\GetCategories" />
+      <Folder Include="Customers\CommandsHandlers\AddAddress" />
+      <Folder Include="Customers\CommandsHandlers\AddProductToShoppingCart" />
+      <Folder Include="Customers\CommandsHandlers\AddProductToWishList" />
+      <Folder Include="Customers\CommandsHandlers\CreateCustomer" />
+      <Folder Include="Customers\QueriesHandler\CustomerLogin" />
+      <Folder Include="Customers\QueriesHandler\GetCustomers" />
+      <Folder Include="Discounts\CommandHandlers" />
+      <Folder Include="Discounts\QueriesHandlers\GetDiscounts" />
+      <Folder Include="Orders\CommandHandlers\CreateOrder" />
+      <Folder Include="Orders\QueriesHandler\GetOrders" />
+      <Folder Include="Orders\QueriesHandler\GetOrdersStatuses" />
+      <Folder Include="Products\CommandHandlers" />
+      <Folder Include="Products\QueriesHandlers\GetCategoryProducts" />
+      <Folder Include="Products\QueriesHandlers\GetProducts" />
+      <Folder Include="Reviews\CommandsHandlers\CreateReviewCommandHandler" />
     </ItemGroup>
 
 </Project>

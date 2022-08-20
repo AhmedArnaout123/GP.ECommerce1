@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3l4p4yVKxPFs3hjybfBMkTNlaICRYU3HzVsGQ/BDAQCs5EkAjlqc+6oIvUIn5VbWspELNMNDv8jtD2mXf++7Ew==",
+  "dgSpecHash": "WOydueSDPFNfKvZ/5XjgcaJuhAR8fXB2qXs/qQVYnPleNmEC3SA7Fg+3AHMuAA4o4DFrySo9Erh2udba6zu2fQ==",
   "success": true,
   "projectFilePath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Infrastructure.MongoDb\\GP.ECommerce1.Infrastructure.MongoDb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\mongodb.bson\\2.17.1\\mongodb.bson.2.17.1.nupkg.sha512",
