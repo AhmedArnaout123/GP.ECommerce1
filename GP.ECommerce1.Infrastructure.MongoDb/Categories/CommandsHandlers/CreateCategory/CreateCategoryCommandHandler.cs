@@ -20,20 +20,20 @@ public class CreateCategoryCommandHandler : IRequestHandler<CreateCategoryComman
     
     public async Task<Result> Handle(CreateCategoryCommand request, CancellationToken cancellationToken)
     {
-        var result = new Result {IsSuccess = true};
-        try
-        {
-            var collection = _database.GetCollection<Category>(Constants.CategoriesCollectionName);
-            var category = _mapper.Map<Category>(request);
+            var result = new Result {IsSuccess = true};
+            try
+            {
+                var collection = _database.GetCollection<Category>(Constants.CategoriesCollectionName);
+                var category = _mapper.Map<Category>(request);
 
-            await collection.InsertOneAsync(category, null, cancellationToken);
-        }
-        catch (Exception e)
-        {
-            Console.WriteLine(e);
-            result.IsSuccess = false;
-            result.Error = e.Message;
-        }
-        return result;
+                await collection.InsertOneAsync(category, null, cancellationToken);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                result.IsSuccess = false;
+                result.Error = e.Message;
+            }
+            return result;
     }
 }

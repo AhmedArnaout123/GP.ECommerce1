@@ -9,7 +9,7 @@ public class Constants
     public const string ProductsCollectionName = "Products";
     public const string CustomersCollectionName = "Customers";
     public const string ReviewsCollectionName = "Reviews";
-    public const string CartsCollectionName = "Carts";
+    public const string ShoppingCartsCollectionName = "Carts";
     public const string WishListsCollectionName = "WishLists";
     public const string OrdersCollectionName = "Orders";
 }

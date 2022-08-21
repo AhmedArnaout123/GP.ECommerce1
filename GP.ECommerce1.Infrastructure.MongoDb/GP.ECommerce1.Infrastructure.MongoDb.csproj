@@ -21,11 +21,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Categories\QueriesHandlers\GetCategories" />
-      <Folder Include="Customers\CommandsHandlers\AddAddress" />
-      <Folder Include="Customers\CommandsHandlers\AddProductToShoppingCart" />
-      <Folder Include="Customers\CommandsHandlers\AddProductToWishList" />
-      <Folder Include="Customers\CommandsHandlers\CreateCustomer" />
       <Folder Include="Customers\QueriesHandler\CustomerLogin" />
       <Folder Include="Customers\QueriesHandler\GetCustomers" />
       <Folder Include="Discounts\CommandHandlers" />

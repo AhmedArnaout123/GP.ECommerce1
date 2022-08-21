@@ -1,5 +1,7 @@
 ﻿using AutoMapper;
 using GP.ECommerce1.Core.Application.Categories.Commands.CreateCategory;
+using GP.ECommerce1.Core.Application.Customers.Commands.AddAddress;
+using GP.ECommerce1.Core.Application.Customers.Commands.CreateCustomer;
 using GP.ECommerce1.Core.Domain;
 
 namespace GP.ECommerce1.Infrastructure.MongoDb;
@@ -16,5 +18,13 @@ public class AutoMapperProfile : Profile
             .ForMember(c => c.Id, option => option.MapFrom(c => Guid.Parse(c.Id)))
             .ForMember(c => c.ParentId,
                 option => option.MapFrom<Guid?>(c => c.ParentId != null ? Guid.Parse(c.ParentId) : null));
+
+        CreateMap<MongoEntities.Customer, Customer>()
+            .ForMember(c => c.Id, option => option.MapFrom(c => Guid.Parse(c.Id)));
+        CreateMap<CreateCustomerCommand, MongoEntities.Customer>()
+            .ForMember(c => c.Id, option => option.MapFrom(c => c.Id.ToString()));
+
+        CreateMap<AddAddressCommand, MongoEntities.Address>();
+
     }
 }
