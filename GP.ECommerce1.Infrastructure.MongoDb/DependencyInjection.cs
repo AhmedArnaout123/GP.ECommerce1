@@ -13,5 +13,6 @@ public static class DependencyInjection
         var mongoClient = new MongoClient("mongodb://localhost:27017");
         services.AddSingleton<IMongoClient>(mongoClient);
         services.AddMediatR(Assembly.GetExecutingAssembly());
+        services.AddAutoMapper(Assembly.GetExecutingAssembly());
     }
 }

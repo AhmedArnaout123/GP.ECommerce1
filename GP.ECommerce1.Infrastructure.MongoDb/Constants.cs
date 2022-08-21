@@ -2,8 +2,9 @@
 
 public class Constants
 {
-    public const string DatabaseName = "GP.ECommerce1";
-
+    public const string DatabaseName = "GP_ECommerce1";
+    public const string ConnectionString = "mongodb://localhost:27017";
+    
     public const string CategoriesCollectionName = "Categories";
     public const string ProductsCollectionName = "Products";
     public const string CustomersCollectionName = "Customers";

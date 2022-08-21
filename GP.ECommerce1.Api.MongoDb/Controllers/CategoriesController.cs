@@ -5,7 +5,7 @@ using GP.Utilix;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace GP.ECommerce1.Api.Sql.Controllers;
+namespace GP.ECommerce1.Api.MongoDb.Controllers;
 
 [ApiController]
 [Route("[controller]")]

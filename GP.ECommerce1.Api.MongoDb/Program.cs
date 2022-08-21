@@ -1,6 +1,4 @@
-using GP.ECommerce1.Infrastructure.DataSeeder;
-using GP.ECommerce1.Infrastructure.Sql;
-using MediatR;
+using GP.ECommerce1.Infrastructure.MongoDb;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,14 +9,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddSqlInfrastructure();
-
-// using (ServiceProvider serviceProvider = builder.Services.BuildServiceProvider())
-// {
-//     var mediator = serviceProvider.GetRequiredService<IMediator>();
-//     var seedingManager = new DataSeedingManager(mediator);
-//     await seedingManager.SeedOrders(1);
-// }
+builder.Services.AddMongoDbInfrastructure();
 
 var app = builder.Build();
 
