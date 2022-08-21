@@ -8,7 +8,7 @@ using GP.Utilix;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
-namespace API.Controllers;
+namespace GP.ECommerce1.Api.Sql.Controllers;
 
 [ApiController]
 [Route("[controller]")]

@@ -1,4 +1,4 @@
-namespace API;
+namespace GP.ECommerce1.Api.Sql;
 
 public class WeatherForecast
 {

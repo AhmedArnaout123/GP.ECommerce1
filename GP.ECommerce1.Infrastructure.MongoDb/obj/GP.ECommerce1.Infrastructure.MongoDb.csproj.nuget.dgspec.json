@@ -4,6 +4,71 @@
     "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Infrastructure.MongoDb\\GP.ECommerce1.Infrastructure.MongoDb.csproj": {}
   },
   "projects": {
+    "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Core\\GP.ECommerce1.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Core\\GP.ECommerce1.Core.csproj",
+        "projectName": "GP.ECommerce1.Core",
+        "projectPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Core\\GP.ECommerce1.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
+        "outputPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/s7wT5oLFV3fOtfj46aCPE33ugPLlfzfl172bkfoar5PhcxXLfD/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\GraduationProject\\GP.ECommerce1\\GP.Utilix\\GP.Utilix.csproj": {
+                "projectPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.Utilix\\GP.Utilix.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Infrastructure.MongoDb\\GP.ECommerce1.Infrastructure.MongoDb.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -12,6 +77,87 @@
         "projectPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Infrastructure.MongoDb\\GP.ECommerce1.Infrastructure.MongoDb.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
         "outputPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Infrastructure.MongoDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/s7wT5oLFV3fOtfj46aCPE33ugPLlfzfl172bkfoar5PhcxXLfD/api": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Core\\GP.ECommerce1.Core.csproj": {
+                "projectPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Core\\GP.ECommerce1.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\GraduationProject\\GP.ECommerce1\\GP.Utilix\\GP.Utilix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\GraduationProject\\GP.ECommerce1\\GP.Utilix\\GP.Utilix.csproj",
+        "projectName": "GP.Utilix",
+        "projectPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.Utilix\\GP.Utilix.csproj",
+        "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
+        "outputPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.Utilix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,20 +186,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "MediatR": {
-              "target": "Package",
-              "version": "[10.0.1, )"
-            },
-            "MediatR.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[10.0.1, )"
-            },
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.17.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

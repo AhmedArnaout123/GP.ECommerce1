@@ -849,11 +849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GraduationProject\\GP.ECommerce1\\API\\API.csproj",
-      "projectName": "API",
-      "projectPath": "F:\\GraduationProject\\GP.ECommerce1\\API\\API.csproj",
+      "projectUniqueName": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Api.Sql\\GP.ECommerce1.Api.Sql.csproj",
+      "projectName": "GP.ECommerce1.Api.Sql",
+      "projectPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Api.Sql\\GP.ECommerce1.Api.Sql.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "F:\\GraduationProject\\GP.ECommerce1\\API\\obj\\",
+      "outputPath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Api.Sql\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

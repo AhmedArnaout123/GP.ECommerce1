@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9TNDHf9PDQ8Zntc7H9fjKwWyFgd4bRPdaiqNq/1nESHZ9MplgxrMWoij8jToIX91HGhogjSBRRu2KniEVJTySQ==",
+  "dgSpecHash": "+9CQkeIQIXabtRr4RvgocqsayO8zGo/OTUejrEXaNPGQKzi2V4Fap3vcG1vUXWq/wftEFHV4PMH6Ufgp4XXO+Q==",
   "success": true,
-  "projectFilePath": "F:\\GraduationProject\\GP.ECommerce1\\API\\API.csproj",
+  "projectFilePath": "F:\\GraduationProject\\GP.ECommerce1\\GP.ECommerce1.Api.Sql\\GP.ECommerce1.Api.Sql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmed\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\ahmed\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
